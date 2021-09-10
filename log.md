@@ -19,12 +19,12 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: September 10, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Separated earth-from-space JS code from brendangasparin.com and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** After playing with the brendangasparin.com and earth-from-space repositories I realised I may need to brush up on core web development skills again. But I don't feel like taking the entire Responsive Web Design certification on freeCodeCamp again so I am instead going to work on the new Foundations lessons on The Odin Project before using both The Odin Project and freeCodeCamp to practice my JavaScript some more. I would also like to learn more PHP and get better with SQL.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Earth From Space](https://brendangasparin.github.io/earth-from-space)
+2. [Simple HTML Blog](https://brendangasparin.github.io/simple-html-blog)
