@@ -28,3 +28,6 @@
 **Link(s) to work**
 1. [Earth From Space](https://brendangasparin.github.io/earth-from-space)
 2. [Simple HTML Blog](https://brendangasparin.github.io/simple-html-blog)
+3. [HTML Lists](https://brendangasparin.github.io/html-lists)
+4. [Odin Links and Images](https://brendangasparin.github.io/odin-links-and-images)
+5. [Odin Recipes](https://brendangasparin.github.io/odin-recipes)
