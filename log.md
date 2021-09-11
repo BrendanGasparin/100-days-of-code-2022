@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: September 10, Monday
+### Day 1: September 10, 2021
 
 **Today's Progress**: Separated earth-from-space JS code from brendangasparin.com and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
 
