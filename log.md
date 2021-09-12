@@ -1,23 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 1: September 10, 2021
 
@@ -35,10 +17,18 @@
 
 ### Day 2: September 11, 2021
 
-**Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project. Started on the CSS Foundations module.
+**Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project. Started on the CSS Foundations module. Started styling the recipe project in a new cookbook repository. Worked on personal website (though I did not upload the work to the server as it contains empty links).
 
 **Thoughts**: It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I have moved onto the CSS part of the course.
 
-**Link(s) to work**:
+**Link(s) to work**
 1. [Odin Recipes](https://brendangasparin.github.io/odin-recipes)
 2. [Cookbook](https://brendangasparin.github.io/cookbook)
+
+### Day 3: September 12, 2021
+
+**Today's Progress**: Finished The Odin Project CSS module. Hours of reading, not much coding. Had to continue styling the cookbook to make up a total hour.
+
+**Thoughts**: Today involved a lot of reading, mostly covering things I already knew. But I did learn a lot about the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) from the linked article. I learned about the difference between inline, block, and inline-block boxes, which I was perhaps a little unclear on before. I also learned about the difference between outer and inner display types, and the different display types from the same article. Looking forward to getting back to JavaScript material, but first I have to complete The Odin Project Flexbox module and then complete a landing page project.
+
+**Link(s) to work:** [Cookbook](https://brendangasparin.github.io/cookbook)
