@@ -3,9 +3,9 @@
 
 ### Day 1: September 10, 2021
 
-**Today's Progress**: Separated earth-from-space JS code from brendangasparin.com and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
+**Today's Progress:** Separated earth-from-space JS code from brendangasparin.com and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
 
-**Thoughts** After playing with the brendangasparin.com and earth-from-space repositories I realised I am rusty and may need to brush up on core web development skills again. But I don't feel like taking the entire Responsive Web Design certification on freeCodeCamp again so I am instead going to work on the new Foundations lessons on The Odin Project before using both The Odin Project and freeCodeCamp to practice my JavaScript some more. I would also like to learn more PHP and get better with SQL.
+**Thoughts:** After playing with the brendangasparin.com and earth-from-space repositories I realised I am rusty and may need to brush up on core web development skills again. But I don't feel like taking the entire Responsive Web Design certification on freeCodeCamp again so I am instead going to work on the new Foundations lessons on The Odin Project before using both The Odin Project and freeCodeCamp to practice my JavaScript some more. I would also like to learn more PHP and get better with SQL.
 
 **Link(s) to work**
 1. [Earth From Space](https://brendangasparin.github.io/earth-from-space)
@@ -17,9 +17,9 @@
 
 ### Day 2: September 11, 2021
 
-**Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project. Started on the CSS Foundations module. Started styling the recipe project in a new cookbook repository. Worked on personal website (though I did not upload the work to the server as it contains empty links).
+**Today's Progress:** Finished The Odin Project Foundations module's Odin Recipes project. Started on the CSS Foundations module. Started styling the recipe project in a new cookbook repository. Worked on personal website (though I did not upload the work to the server as it contains empty links).
 
-**Thoughts**: It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I have moved onto the CSS part of the course.
+**Thoughts:** It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I have moved onto the CSS part of the course.
 
 **Link(s) to work**
 1. [Odin Recipes](https://brendangasparin.github.io/odin-recipes)
@@ -27,8 +27,8 @@
 
 ### Day 3: September 12, 2021
 
-**Today's Progress**: Finished The Odin Project CSS module. Hours of reading, not much coding. Had to continue styling the cookbook to make up a total hour of coding.
+**Today's Progress:** Finished The Odin Project CSS module. Hours of reading, not much coding. Had to continue styling the cookbook to make up a total hour of coding.
 
-**Thoughts**: Today involved a lot of reading, mostly covering things I already knew. But I did learn a lot about the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) from the linked article. I learned about the difference between inline, block, and inline-block boxes, which I was perhaps a little unclear on before. I also learned about the difference between outer and inner display types, and the different display types from the same article. Looking forward to getting back to JavaScript material, but first I have to complete The Odin Project Flexbox module and then complete a landing page project.
+**Thoughts:** Today involved a lot of reading, mostly covering things I already knew. But I did learn a lot about the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) from the linked article. I learned about the difference between inline, block, and inline-block boxes, which I was perhaps a little unclear on before. I also learned about the difference between outer and inner display types, and the different display types from the same article. Looking forward to getting back to JavaScript material, but first I have to complete The Odin Project Flexbox module and then complete a landing page project.
 
 **Link(s) to work:** [Cookbook](https://brendangasparin.github.io/cookbook)
