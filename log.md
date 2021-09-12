@@ -35,7 +35,7 @@
 
 ### Day 2: September 11, 2021
 
-**Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project.
+**Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project. Started on the CSS Foundations module.
 
 **Thoughts**: It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I have moved onto the CSS part of the course.
 
