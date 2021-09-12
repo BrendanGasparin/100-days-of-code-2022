@@ -37,6 +37,8 @@
 
 **Today's Progress**: Finished The Odin Project Foundations module's Odin Recipes project.
 
-**Thoughts**: It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I can move onto the CSS part of the course.
+**Thoughts**: It may have seemed a bit basic going over HTML in the last 24 hours but I picked up a few things I didn't already know, particularly about list styling (which is more CSS, but whatever) from an article linked on The Odin Project curriculum. I bookmarked the article under Computing/Development/Web Development/HTML in Chrome. Now that I've finished the Odin Recipes project I have moved onto the CSS part of the course.
 
-**Link(s) to work**: [Odin Recipes](http://brendangasparin.github.io/odin-recipes)
+**Link(s) to work**:
+1. [Odin Recipes](https://brendangasparin.github.io/odin-recipes)
+2. [Cookbook](https://brendangasparin.github.io/cookbook)
