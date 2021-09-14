@@ -37,6 +37,6 @@
 
 **Today's Progress:** Worked through most of The Odin Project Flexbox material, including seven Flexbox exercises.
 
-**Thoughts:** Had difficulty finding an hour to code due to family responsibilities and Halo 4.
+**Thoughts:** Had difficulty finding an hour to code due to family responsibilities and Halo 4. But I did.
 
 **Link(s) to work:** N/A (Did not upload the exercises)
