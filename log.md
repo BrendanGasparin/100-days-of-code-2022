@@ -32,3 +32,11 @@
 **Thoughts:** Today involved a lot of reading, mostly covering things I already knew. But I did learn a lot about the [CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) from the linked article. I learned about the difference between inline, block, and inline-block boxes, which I was perhaps a little unclear on before. I also learned about the difference between outer and inner display types, and the different display types. Looking forward to getting back to JavaScript material, but first I have to complete The Odin Project Flexbox module and then complete a landing page project. While working on my personal website I decided the article I linked in Day 2 has maybe the best and simplest method of marking up and styling a nav bar that I have seen.
 
 **Link(s) to work:** [Cookbook](https://brendangasparin.github.io/cookbook)
+
+### Day 4: September 13, 2021
+
+**Today's Progress:** Worked through most of The Odin Project Flexbox material, including seven Flexbox exercises.
+
+**Thoughts:** Had difficulty finding an hour to code due to family responsibilities and Halo 4.
+
+**Link(s) to work:** N/A (Did not upload the exercises)
