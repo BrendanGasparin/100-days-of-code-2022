@@ -40,3 +40,11 @@
 **Thoughts:** Had difficulty finding an hour to code due to family responsibilities and Halo 4. But I did.
 
 **Link(s) to work:** N/A (Did not upload the exercises)
+
+### Day 5: September 14, 2021
+
+**Today's Progress:** Worked through the final exercise in The Odin Project Flexbox material.
+
+**Thoughts:** Learned the holy grail layout. I have been creating this layout myself for years without knowing it had a name. But now, with Flexbox and media queries, I can make it responsive on smaller screens.
+
+**Link(s) to work:** N/A (Did not upload the exercise)
