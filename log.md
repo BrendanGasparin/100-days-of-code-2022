@@ -3,7 +3,7 @@
 
 ### Day 1: September 10, 2021
 
-**Today's Progress:** Separated earth-from-space JS code from brendangasparin.com and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
+**Today's Progress:** Separated earth-from-space JS code from my personal website and put it in its own repository. Began working through the new Foundations lessons on The Odin Project.
 
 **Thoughts:** After playing with the brendangasparin.com and earth-from-space repositories I realised I am rusty and may need to brush up on core web development skills again. But I don't feel like taking the entire Responsive Web Design certification on freeCodeCamp again so I am instead going to work on the new Foundations lessons on The Odin Project before using both The Odin Project and freeCodeCamp to practice my JavaScript some more. I would also like to learn more PHP and get better with SQL.
 
