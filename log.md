@@ -53,6 +53,6 @@
 
 **Today's Progress:** Added a new recipe to the cookbook website and changed its styling a little.
 
-**Thoughts:** I spent just over the bare minimum of one hour for coding. If I want to improve faster I will have to devote more time.
+**Thoughts:** I spent just over the bare minimum requirement for one hour of coding today. If I want to improve faster I will have to devote more time in the future.
 
 **Link(s) to work:** [Simplicity Chocolate Cake Recipe](https://brendangasparin.github.io/cookbook/recipes/simplicity-chocolate-cake.html)
