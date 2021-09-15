@@ -48,3 +48,11 @@
 **Thoughts:** Learned the holy grail layout. I have been creating this layout myself for years without knowing it had a name. But now, with Flexbox and media queries, I can make it responsive on smaller screens.
 
 **Link(s) to work:** N/A (Did not upload the exercise)
+
+### Day 6: September 15, 2021
+
+**Today's Progress:** Added a new recipe to the cookbook website and changed its styling a little.
+
+**Thoughts:** I spent just over the bare minimum of one hour for coding. If I want to improve faster I will have to devote more time.
+
+**Link(s) to work:** [Simplicity Chocolate Cake Recipe](https://brendangasparin.github.io/cookbook/recipes/simplicity-chocolate-cake.html)
