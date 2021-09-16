@@ -51,8 +51,8 @@
 
 ### Day 6: September 15, 2021
 
-**Today's Progress:** Added a new recipe to the cookbook website and changed its styling a little.
+**Today's Progress:** Added a new recipe to the cookbook website and changed its styling a little. Recreated the holy grail layout from memory in HTML and CSS.
 
-**Thoughts:** I spent just over the bare minimum requirement for one hour of coding today. If I want to improve faster I will have to devote more time in the future.
+**Thoughts:** I spent just over the bare minimum requirement for one hour of coding today (before midnight - I additionally coded the holy grail at 3-4am). If I want to improve faster I will have to devote more time in the future.
 
 **Link(s) to work:** [Simplicity Chocolate Cake Recipe](https://brendangasparin.github.io/cookbook/recipes/simplicity-chocolate-cake.html)
