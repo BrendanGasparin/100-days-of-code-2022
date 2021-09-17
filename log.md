@@ -56,3 +56,11 @@
 **Thoughts:** I spent just over the bare minimum requirement for one hour of coding today (before midnight - I additionally coded the holy grail at 3-4am). If I want to improve faster I will have to devote more time in the future.
 
 **Link(s) to work:** [Simplicity Chocolate Cake Recipe](https://brendangasparin.github.io/cookbook/recipes/simplicity-chocolate-cake.html)
+
+### Day 7: September 16, 2021
+
+**Today's Progress:** Watched 14 of the videos on [Flexbox.io](https://flexbox.io). Worked on personal website.
+
+**Thoughts:** I told Twitter I was going to work through the [Flexbox.io](https://flexbox.io) code-along videos, but these videos did not start the code from scratch and seemed to cover material I already knew, so I worked on my personal website instead.
+
+**Link(s) to work:** N/A (Did not update the live version of the personal website.)
