@@ -64,3 +64,11 @@
 **Thoughts:** I told Twitter I was going to work through the [Flexbox.io](https://flexbox.io) code-along videos, but these videos did not start the code from scratch and seemed to cover material I already knew, so I worked on my personal website instead.
 
 **Link(s) to work:** N/A (Did not update the live version of the personal website.)
+
+### Day 8: September 17, 2021
+
+**Today's Progress:** Worked on [personal website](https://brendangasparin.com).
+
+**Thoughts:** I really want to finish The Odin Project's Flexbox module, but it involves a lot of reading and video watching and playing Flex-based games, none of which is actually coding, and I have to make up 1 hour of coding per day to meet the challenge. So, because I am squeezed for time due to family, I worked on my personal website today instead of The Odin Project. Hoping to finish the Flexbox module later when I have more time to myself.
+
+**Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
