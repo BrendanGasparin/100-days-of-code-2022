@@ -72,3 +72,11 @@
 **Thoughts:** I really want to finish The Odin Project's Flexbox module, but it involves a lot of reading and video watching and playing Flex-based games, none of which is actually coding, and I have to make up 1 hour of coding per day to meet the challenge. So, because I am squeezed for time due to family, I worked on my personal website today instead of The Odin Project. Hoping to finish the Flexbox module later when I have more time to myself.
 
 **Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
+
+### Day 9: September 18, 2021
+
+**Today's Progress:** Worked on [personal website](https://brendangasparin.com). Refactored HTML into PHP includes to cut back on space, and added an About page.
+
+**Thoughts:** Another day where I spent the bare minimum time coding and gained no progress on The Odin Project. It is a Saturday, though.
+
+**Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
