@@ -80,3 +80,11 @@
 **Thoughts:** Another day where I spent the bare minimum time coding and gained no progress on The Odin Project. It is a Saturday, though.
 
 **Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
+
+### Day 10: September 19, 2021
+
+**Today's Progress:** Worked on [personal website](https://brendangasparin.com). Incorporated touch screen controls and content scrolling on a central div element while the header and footer of the page remain stationary. Played [Flexbox Froggy](https://flexboxfroggy.com/).
+
+**Thoughts:** Sunday. Spent most of the day with the family. Watch the rest of the videos at [What the Flexbox?!](https://flexbox.io). Working through the rest of The Odin Project's Flexbox material so I can get started on the landing page project.
+
+**Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
