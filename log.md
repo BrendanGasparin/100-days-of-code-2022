@@ -93,8 +93,8 @@
 
 ### Day 11: September 20, 2021
 
-**Today's Progress:** Worked on The Odin Project [Landing Page](https://brendangasparin.github.io/odin-landing-page/) project.
+**Today's Progress:** Completed The Odin Project [Landing Page](https://brendangasparin.github.io/odin-landing-page/) project.
 
-**Thoughts:** Working on The Odin Project's landing page project. You have to duplicate a layout, typography, and colour scheme, as if it were given to you by a client. The problem is that the layout is very horizontal and would look terrible on a mobile device. Making it responsive would be very difficult and time-consuming and is not a requirement of the project, but responsiveness is a very important part of modern web design. So I feel like the project will be fairly useless for inclusion in a portfolio. I just want to finish it as quick as possible and move onto the Javascript material.
+**Thoughts:** Completed The Odin Project's landing page project. You have to duplicate a layout, typography, and colour scheme, as if they were given to you by a client. The problem is that the layout is very horizontal and would look terrible on a mobile device. Making it responsive would be very difficult and time-consuming and is not a requirement of the project, but responsiveness is a very important part of modern web design. So I feel like the project will be fairly useless for inclusion in a portfolio. I just wanted to finish it as quick as possible and move onto the Javascript material, so I worked on it into the early hours of the morning, until it looked good on 1920x1080 resolution. I turned off the meta viewport tag and it looks kind of okay on a mobile device although the image row is cramped and skewed. Looking forward to the JavaScript material, although I have to remember to keep a handle on HTML and CSS basics as well.
 
 **Link(s) to work:** [Landing Page](https://brendangasparin.github.io/odin-landing-page/)
