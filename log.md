@@ -83,8 +83,11 @@
 
 ### Day 10: September 19, 2021
 
-**Today's Progress:** Worked on [personal website](https://brendangasparin.com). Incorporated touch screen controls and content scrolling on a central div element while the header and footer of the page remain stationary. Played [Flexbox Froggy](https://flexboxfroggy.com/).
+**Today's Progress:** Worked on [personal website](https://brendangasparin.com). Incorporated touch screen controls and content scrolling on a central div element while the header and footer of the page remain stationary. Played [Flexbox Froggy](https://flexboxfroggy.com/). Started The Odin Project [Landing Page](https://brendangasparin.github.io/odin-landing-page/) project.
 
-**Thoughts:** Sunday. Spent most of the day with the family. Watch the rest of the videos at [What the Flexbox?!](https://flexbox.io). Working through the rest of The Odin Project's Flexbox material so I can get started on the landing page project.
+**Thoughts:** Watched the rest of the videos at [What the Flexbox?!](https://flexbox.io). Worked through the rest of The Odin Project's Flexbox material. Started on the landing page project.
 
-**Link(s) to work:** [brendangasparin.com](https://brendangasparin.com)
+**Link(s) to work**
+1. [brendangasparin.com](https://brendangasparin.com)
+2. [Landing Page](https://brendangasparin.github.io/odin-landing-page/)
+
