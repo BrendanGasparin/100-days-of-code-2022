@@ -91,3 +91,10 @@
 1. [brendangasparin.com](https://brendangasparin.com)
 2. [Landing Page](https://brendangasparin.github.io/odin-landing-page/)
 
+### Day 11: September 20, 2021
+
+**Today's Progress:** Worked on The Odin Project [Landing Page](https://brendangasparin.github.io/odin-landing-page/) project.
+
+**Thoughts:** Working on The Odin Project's landing page project. You have to duplicate a layout, typography, and colour scheme, as if it were given to you by a client. The problem is that the layout is very horizontal and would look terrible on a mobile device. Making it responsive would be very difficult and time-consuming and is not a requirement of the project, but responsiveness is a very important part of modern web design. So I feel like the project will be fairly useless for inclusion in a portfolio. I just want to finish it as quick as possible and move onto the Javascript material.
+
+**Link(s) to work:** [Landing Page](https://brendangasparin.github.io/odin-landing-page/)
