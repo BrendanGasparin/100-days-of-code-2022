@@ -98,3 +98,11 @@
 **Thoughts:** Completed The Odin Project's landing page project. You have to duplicate a layout, typography, and colour scheme, as if they were given to you by a client. The problem is that the layout is very horizontal and would look terrible on a mobile device. Making it responsive would be very difficult and time-consuming and is not a requirement of the project, but responsiveness is a very important part of modern web design. So I feel like the project will be fairly useless for inclusion in a portfolio. I just wanted to finish it as quick as possible and move onto the Javascript material, so I worked on it into the early hours of the morning, until it looked good on 1920x1080 resolution. I turned off the meta viewport tag and it looks kind of okay on a mobile device although the image row is cramped and skewed. Looking forward to the JavaScript material, although I have to remember to keep a handle on HTML and CSS basics as well.
 
 **Link(s) to work:** [Landing Page](https://brendangasparin.github.io/odin-landing-page/)
+
+### Day 12: September 21, 2021
+
+**Today's Progress:** Worked through some JavaScript basics on The Odin Project and freeCodeCamp.
+
+**Thoughts:** Cannot decide between The Odin Project and freeCodeCamp. I think I might use the former for when I want to passively consume content like articles and videos, and the latter when I need to get in my hour of coding for the day. Trying to keep notes in a Google Drive doc. It is slowing me down but I assume the writing process is helping me learn better. Watched an [interesting take](https://www.youtube.com/watch?v=dhhdfoPiY0U) on rapid learning from @theXSSrat on Twitter. Much the same way that I rushed the landing page project yesterday, I am now wondering about the trade-off between perfectionism (e.g. in taking notes on every small detail I learn) and just doing all the things ASAP so I can move to more advanced stages. Not sure where I stand. JavaScript has a lot of quirks I might need to know, but I just spent over an hour taking notes on variable assignment alone and that might not be the most productive use of my time.
+
+**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
