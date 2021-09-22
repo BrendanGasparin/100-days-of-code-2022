@@ -106,3 +106,11 @@
 **Thoughts:** Cannot decide between The Odin Project and freeCodeCamp. I think I might use the former for when I want to passively consume content like articles and videos, and the latter when I need to get in my hour of coding for the day. Trying to keep notes in a Google Drive doc. It is slowing me down but I assume the writing process is helping me learn better. Watched an [interesting take](https://www.youtube.com/watch?v=dhhdfoPiY0U) on rapid learning from @theXSSrat on Twitter. Much the same way that I rushed the landing page project yesterday, I am now wondering about the trade-off between perfectionism (e.g. in taking notes on every small detail I learn) and just doing all the things ASAP so I can move to more advanced stages. Not sure where I stand. JavaScript has a lot of quirks I might need to know, but I just spent over an hour taking notes on variable assignment alone and that might not be the most productive use of my time.
 
 **Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
+
+### Day 13: September 22, 2021
+
+**Today's Progress:** Made a ROT13 converter with JavaScript and a HTML form. Worked through JavaScript material about strings and arrays on freeCodeCamp.
+
+**Thoughts:** Sleep schedule is upside down, nocturnal, because I am up all night reading and watching videos and doing code and Twitter. The #100DaysOfCode challenge is taking its toll on my sleep schedule, but I do not want to stop. Last night I stayed up all night coding, and then switched to [PicoCTF](https://picoctf.org) to wind down, but ended up coding the ROT13 Converter at 4am to help with a challenge (and because I'd rather write websites than get CTF flags, I guess). I am writing this log entry at 4:30am on the 23rd September after a similar bout of coding on freeCodeCamp. Seriously considering trying to stay awake all day to reset my sleep schedule. If I do, then Day 13 and 14 are going to merge into one weird long stretch of coding and sleep deprivation.
+
+**Link(s) to work:** [ROT13 Converter](https://brendangasparin.github.io/rot13-js/)
