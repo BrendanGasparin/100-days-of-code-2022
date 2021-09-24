@@ -114,3 +114,11 @@
 **Thoughts:** Sleep schedule is upside down, nocturnal, because I am up all night reading and watching videos and doing code and Twitter. The #100DaysOfCode challenge is taking its toll on my sleep schedule, but I do not want to stop. Last night I stayed up all night coding, and then switched to [PicoCTF](https://picoctf.org) to wind down, but ended up coding the ROT13 Converter at 4am to help with a challenge (and because I'd rather write websites than get CTF flags, I guess). I am writing this log entry at 4:30am on the 23rd September after a similar bout of coding on freeCodeCamp. Seriously considering trying to stay awake all day to reset my sleep schedule. If I do, then Day 13 and 14 are going to merge into one weird long stretch of coding and sleep deprivation.
 
 **Link(s) to work:** [ROT13 Converter](https://brendangasparin.github.io/rot13-js/)
+
+### Day 14: September 23, 2021
+
+**Today's Progress:** Worked through arrays and function sections of freeCodeCamp Basic JavaScript course. Worked on own project: what I hope will be a PHP CRUD app.
+
+**Thoughts:** Slept for four hours in the morning. Did freeCodeCamp tutorials all day and worked on the basic HTML and CSS of the CRUD app in the early hours of the next morning. I have already written a PHP authenticator (just before starting this log) so I believe I can do this CRUD app. I just have to make sure I do not flake on my JavaScript studies while I do it.
+
+**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
