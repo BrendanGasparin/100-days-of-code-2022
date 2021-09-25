@@ -122,3 +122,21 @@
 **Thoughts:** Slept for four hours in the morning. Did freeCodeCamp tutorials all day and worked on the basic HTML and CSS of the CRUD app in the early hours of the next morning. I have already written a PHP authenticator (just before starting this log) so I believe I can do this CRUD app. I just have to make sure I do not flake on my JavaScript studies while I do it.
 
 **Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
+
+### Day 15: September 24, 2021
+
+**Today's Progress:** Worked through Basic JavaScript material on freeCodeCamp.
+
+**Thoughts:** Flying through the Basic JavaScript course because it is mostly material I know from other programming languages. I'm just noting down the ways in which JavaScript is different (and often more versatile) than other languages. Because I didn't have anything but freeCodeCamp screenshots to post on Twitter, I posted a shot of the CRUD app I was trying to make the previous night (which is actually early morning of today anyway).
+
+**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
+
+### Day 16: September 25, 2021
+
+**Today's Progress:** Finished the Basic JavaScript material on freeCodeCamp.
+
+**Thoughts:** Out of all the Basic JavaScript material, I think I need to be most mindful of objects and array methods, because these things seem different from what I know from other languages. I find it strange that the material has not covered DOM manipulation and I wonder if all of the material at freeCodeCamp will simply be about printing things to the console. I hope not.
+
+If I complete another freeCodeCamp JavaScript course I will be father than I have ever gotten on freeCodeCamp.
+
+**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
