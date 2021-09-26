@@ -145,6 +145,6 @@ If I complete another freeCodeCamp JavaScript course I will be father than I hav
 
 **Today's Progress:** Working on the ES6 material on freeCodeCamp.
 
-**Thoughts:** Taking thorough notes, because everything I learn from here on is new to me. Accidentally fell asleep at about 9pm, so didn't make my Twitter post until 1am on the 27th.
+**Thoughts:** Taking thorough notes, because everything I learn from here on is new to me. Accidentally fell asleep at about 9pm, so didn't do the Twitter stuff until 1am on the 27th.
 
 **Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
