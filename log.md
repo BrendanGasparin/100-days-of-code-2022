@@ -148,3 +148,13 @@ If I complete another freeCodeCamp JavaScript course I will be father than I hav
 **Thoughts:** Taking thorough notes, because everything I learn from here on is new to me. Accidentally fell asleep at about 9pm, so didn't do the Twitter stuff until 1am on the 27th.
 
 **Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
+
+### Day 18: September 27, 2021
+
+**Today's Progress:** Finished the ES6 course from JavaScript Algorithms and Data Structures Certification on freeCodeCamp.
+
+**Thoughts:** All of this material is new to me. I may have to revise it several times before I remember it, or just refer back to it when I need it. Not even sure how I would practice some of this stuff, like asynchronous promises. Like I said, refer back to it when I need it.
+
+Just noticed that my links to work for the last several days are just my freeCodeCamp profile. It's good to learn new things, but according to the #100DaysOfCode challenge I'm supposed to be building my own projects. I should code my own stuff more in between doing tutorials.
+
+**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
