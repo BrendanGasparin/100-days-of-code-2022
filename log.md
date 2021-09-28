@@ -151,10 +151,10 @@ If I complete another freeCodeCamp JavaScript course I will be father than I hav
 
 ### Day 18: September 27, 2021
 
-**Today's Progress:** Finished the ES6 course from JavaScript Algorithms and Data Structures Certification on freeCodeCamp.
+**Today's Progress:** Finished the ES6 course from JavaScript Algorithms and Data Structures Certification on freeCodeCamp. Also revised DOM manipulation on The Odin Project and wrote a FizzBuzz program.
 
-**Thoughts:** All of this material is new to me. I may have to revise it several times before I remember it, or just refer back to it when I need it. Not even sure how I would practice some of this stuff, like asynchronous promises. Like I said, refer back to it when I need it.
+**Thoughts:** Most of this ES6 material is new to me. I may have to revise it several times before I remember it, or just refer back to it when I need it. Not even sure how I would practice some of this stuff, like asynchronous promises. Like I said, refer back to it when I need it.
 
 Just noticed that my links to work for the last several days are just my freeCodeCamp profile. It's good to learn new things, but according to the #100DaysOfCode challenge I'm supposed to be building my own projects. I should code my own stuff more in between doing tutorials.
 
-**Link(s) to work:** [freeCodeCamp profile](https://www.freecodecamp.org/brendangasparin)
+**Link(s) to work:** [FizzBuzz Generator](https://brendangasparin.github.io/fizzbuzz-js/)
