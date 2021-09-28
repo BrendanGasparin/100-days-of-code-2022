@@ -158,3 +158,11 @@ If I complete another freeCodeCamp JavaScript course I will be father than I hav
 Just noticed that my links to work for the last several days are just my freeCodeCamp profile. It's good to learn new things, but according to the #100DaysOfCode challenge I'm supposed to be building my own projects. I should code my own stuff more in between doing tutorials.
 
 **Link(s) to work:** [FizzBuzz Generator](https://brendangasparin.github.io/fizzbuzz-js/)
+
+### Day 19: September 28, 2021
+
+**Today's Progress:** Started the #JavaScript30 challenge and did the drumkit tutorial for the second time this year.
+
+**Thoughts:** Not sure how I will go doing #100DaysOfCode, freeCodeCamp, The Odin Project, and the #JavaScript30 challenges at the same time. I'm supposed to be coding my own stuff, not doing tutorials. But I did learn some things from the drumkit tutorial, and it was cool to make something that functional.
+
+**Link(s) to work:** [JavaScript30 Drumkit](https://brendangasparin.github.io/javascript30-drumkit/)
