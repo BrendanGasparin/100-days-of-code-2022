@@ -166,3 +166,11 @@ Just noticed that my links to work for the last several days are just my freeCod
 **Thoughts:** Not sure how I will go doing #100DaysOfCode, freeCodeCamp, The Odin Project, and the #JavaScript30 challenges at the same time. I'm supposed to be coding my own stuff, not doing tutorials. But I did learn some things from the drumkit tutorial, and it was cool to make something that functional.
 
 **Link(s) to work:** [JavaScript30 Drumkit](https://brendangasparin.github.io/javascript30-drumkit/)
+
+### Day 20: September 29, 2021
+
+**Today's Progress:** Wrote a Twitter bot with Python's Tweepy library. Made an "analogue" clock as part of #JavaScript30.
+
+**Thoughts:** I got a huge rush from making the Twitter bot in the early hours of the morning and did not fall asleep until 9am. Ran my Twitter bot all day, auto-liking #100DaysOfCode posts. It liked a lot of spam. I got 1 follower. Woke up at about 7pm and did the #JavaScript30 task at around midnight. Writing this at 4am. Coding messes with my sleep schedule badly.
+
+**Link(s) to work:** [JavaScript30 Clock](https://brendangasparin.github.io/javascript30-clock/)
