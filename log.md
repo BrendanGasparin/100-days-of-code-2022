@@ -174,3 +174,11 @@ Just noticed that my links to work for the last several days are just my freeCod
 **Thoughts:** I got a huge rush from making the Twitter bot in the early hours of the morning and did not fall asleep until 9am. Ran my Twitter bot all day, auto-liking #100DaysOfCode posts. It liked a lot of spam. I got 1 follower. Woke up at about 7pm and did the #JavaScript30 task at around midnight. Writing this at 4am. Coding messes with my sleep schedule badly.
 
 **Link(s) to work:** [JavaScript30 Clock](https://brendangasparin.github.io/javascript30-clock/)
+
+### Day 21: September 30, 2021
+
+**Today's Progress:** Learned how to modify CSS variables with JavaScript as day 3 of #JavaScript30.
+
+**Thoughts:** Stay the course, kid.
+
+**Link(s) to work:** [JavaScript30 Clock](https://brendangasparin.github.io/javascript30-clock/)
