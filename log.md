@@ -189,4 +189,4 @@ Just noticed that my links to work for the last several days are just my freeCod
 
 **Thoughts:** Learned about JavaScript array methods, which I did not know before.
 
-**Link(s) to work:** [JavaScript30 Array Cardio 1](### Day 21: September 30, 2021
+**Link(s) to work:** [JavaScript30 Array Cardio 1](https://brendangasparin.github.io/javascript30-array-cardio-d1/)
