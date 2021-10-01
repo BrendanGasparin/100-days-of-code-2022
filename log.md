@@ -181,4 +181,12 @@ Just noticed that my links to work for the last several days are just my freeCod
 
 **Thoughts:** Stay the course, kid.
 
-**Link(s) to work:** [JavaScript30 Clock](https://brendangasparin.github.io/javascript30-clock/)
+**Link(s) to work:** [JavaScript30 CSS Variables](https://brendangasparin.github.io/javascript30-css-variables/)
+
+### Day 21: October 1, 2021
+
+**Today's Progress:** Completed Array Cardio Day 1 exercise as day 4 of #JavaScript30.
+
+**Thoughts:** Learned about JavaScript array methods, which I did not know before.
+
+**Link(s) to work:** [JavaScript30 Array Cardio 1](### Day 21: September 30, 2021
