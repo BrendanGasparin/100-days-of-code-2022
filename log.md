@@ -11,7 +11,7 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
-# 100 Days Of Code - Log
+# 100 Days Of Code (2021) - Log
 
 
 ### Day 1: September 10, 2021
