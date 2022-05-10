@@ -5,7 +5,7 @@
 
 **Today's Progress:** Working on problem set 1 from online CS50 course. Completed Hello, Mario Less, Mario More, and Cash.
 
-**Thoughts:** Attempting 100DaysOfCode for a second time. I am going to do the CS50 online course to practice C. When I get to the Python material I am going to do some pen-testing courses to supplement that, and when I get to the web development material I will restart freeCodeCamp and the Odin Project.
+**Thoughts:** Attempting 100DaysOfCode for a second time. I am going to do the CS50 online course to practice C. When I get to the Python material I am going to do some pen-testing courses to supplement that, and when I get to the web development material I will continue and finish my progress in freeCodeCamp and the Odin Project.
 
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
