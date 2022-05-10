@@ -3,13 +3,14 @@
 
 ### Day 1: May 10, 2022
 
-**Today's Progress:** Working on problem set 1 from online CS50 course. Completed Hello, Mario Less, Mario More, and Cash.
+**Today's Progress:** Completed problem set 1 from online [CS50](https://cs50.harvard.edu/x/) course.
 
-**Thoughts:** Attempting 100DaysOfCode for a second time. I am going to do the CS50 online course to practice C. When I get to the Python material I am going to do some pen-testing courses to supplement that, and when I get to the web development material I will continue and finish my progress in freeCodeCamp and the Odin Project.
+**Thoughts:** Attempting 100 Days of Code for a second time. I am going to do the CS50 online course to practice C. When I get to the Python material I am going to do some pen-testing courses to supplement that, and when I get to the web development material I will continue and finish my progress in freeCodeCamp and the Odin Project.
 
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
 
+<hr />
 
 # 100 Days Of Code (2021) - Log
 
