@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: May 10, 2021
+### Day 1: May 10, 2022
 
 **Today's Progress:** Working on problem set 1 from online CS50 course. Completed Hello, Mario Less, Mario More, and Cash.
 
