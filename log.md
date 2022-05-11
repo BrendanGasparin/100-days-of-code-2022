@@ -10,6 +10,17 @@
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
 
+
+### Day 2: May 11, 2022
+
+**Today's Progress:** Completed Lab 2 problem Scrabble from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Thoughts:** I watched a two hour CS50 lecture before attempting problems today. It took me four hours because I was having trouble concentrating and kept having to rewind. Apparently my chosen path, CS50, is going to involve a lot of time watching video lectures in addition to the time I need to spend coding for the 100 Days challenge. Of course, I can intersperse CS50 with my own projects if I ever get tired of watching videos.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
