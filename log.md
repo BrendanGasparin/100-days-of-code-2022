@@ -21,6 +21,38 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 3: May 12, 2022
+
+**Today's Progress:** Began Pset2 problem Readability from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 4: May 13, 2022
+
+**Today's Progress:** Completed Pset2 problem Readability from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 5: May 14, 2022
+
+**Today's Progress:** Completed Pset2 problem Caesar from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 6: May 15, 2022
+
+**Today's Progress:** Completed Pset2 problem Substitution from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
