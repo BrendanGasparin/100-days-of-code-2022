@@ -53,6 +53,38 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 7: May 16, 2022
+
+**Today's Progress:** Completed Pset3 problems Substitution from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 8: May 17, 2022
+
+**Today's Progress:** At some point I began Lab 3 and Pset3 problems Plurality and Tideman from online [CS50](https://cs50.harvard.edu/x/) course. Completed all but Tideman.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 9: May 18, 2022
+
+**Today's Progress:** Worked on Pset3 problems Tideman from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 10: May 19, 2022
+
+**Today's Progress:** Flipped my lid on Tideman and added a Labs section to my personal website instead.
+
+**Link(s) to work**
+1. [Labs](https://brendangasparin.github.io/labs.html)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
