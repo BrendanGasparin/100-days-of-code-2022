@@ -79,10 +79,26 @@
 
 ### Day 10: May 19, 2022
 
-**Today's Progress:** Flipped my lid on Tideman and added a Labs section to my personal website instead.
+**Today's Progress:** Got frustrated with Tideman problem and added a Labs section to my personal website instead.
 
 **Link(s) to work**
 1. [Labs](https://brendangasparin.github.io/labs.html)
+
+
+### Day 11: May 20, 2022
+
+**Today's Progress:** Got Tideman problem to work using selection sort.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 12: May 21, 2022
+
+**Today's Progress:** Implemented bubble sort and then merge sort in Tideman problem.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
 
 
 <hr />
