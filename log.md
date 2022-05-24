@@ -109,6 +109,22 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 14: May 23, 2022
+
+**Today's Progress:** Completed black and white filter from CS50 Pset4 Filter-Less problem. Took an entire hour because of a bug involving misplaced parentheses.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 15: May 24, 2022
+
+**Today's Progress:** Completed sepia filter from CS50 Pset4 Filter-Less problem. Took an entire hour because of a bug that I could only resolve by rewriting the whole filter from scratch a second time.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
