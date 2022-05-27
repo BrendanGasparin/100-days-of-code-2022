@@ -125,6 +125,16 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 16: May 26, 2022
+
+**Today's Progress:** Worked on edge detection filter from CS50.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+**Thoughts:** Missed a day of coding, on May 25, due to family issues. The edge detection filter is much more complicated than the other filters and I think it might take me longer to complete. Extremely concerned that I will introduce tiny logic errors that I will not be able to find or fix. But that's the nature of programming, I guess.
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
