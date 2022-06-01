@@ -167,6 +167,26 @@
 1. N/A (Can't post work because it is not live. Check Twitter for a screenshot.)
 
 
+### Day 21: May 31, 2022
+
+**Today's Progress:** Completed Pset 4 problem Filter-more from online [CS50](https://cs50.harvard.edu/x/) course.
+
+**Thoughts:** This problem took me days, and I got so frustrated with it that I began whatever "multiverse project" is in order to escape it. But after a couple of days of reflection I started to wonder if the error was in the kernel arrays and not the main code. So I woke up today and looked and there was a kernel error, corrupting everything. I immediately reduced the error pixels to only the bottom row. The adrenaline burst was huge. I quickly fixed the bottom row and posted on Facebook and Twitter about it. I am so excited to have finally finished this program.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 22: June 1, 2022
+
+**Today's Progress:** Continued work on multiverse project, doing this [OOP PHP Login System](https://www.youtube.com/playlist?list=PLfdtiltiRHWF5Rhuk7k4UAU1_yLAZzhWc) tutorial to try and create a login system.
+
+**Thoughts:** OOP PHP seems very complicated, or at least this tutorial does. I strongly suspect I am going to have to teach myself the basics of PHP from the ground up to complete this project..
+
+**Link(s) to work**
+1. N/A (Not live yet.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
