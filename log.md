@@ -181,10 +181,18 @@
 
 **Today's Progress:** Continued work on multiverse project, doing this [OOP PHP Login System](https://www.youtube.com/playlist?list=PLfdtiltiRHWF5Rhuk7k4UAU1_yLAZzhWc) tutorial to try and create a login system.
 
-**Thoughts:** OOP PHP seems very complicated, or at least this tutorial does. I strongly suspect I am going to have to teach myself the basics of PHP from the ground up to complete this project..
+**Thoughts:** OOP PHP seems very complicated, or at least this tutorial does. I strongly suspect I am going to have to teach myself the basics of PHP from the ground up to complete this project.
 
 **Link(s) to work**
 1. N/A (Not live yet.)
+
+
+### Day 23: June 2, 2022
+
+**Today's Progress:** Edited the line breaks in my source file for Filter-more from online [CS50](https://cs50.harvard.edu/x/) course, because the automatic code checker deducts points if there are more than 80 characters on a single line. Took me nearly an entire hour, with the rest of the hour being me updating this log.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
 
 
 <hr />
