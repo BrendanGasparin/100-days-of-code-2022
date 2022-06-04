@@ -195,6 +195,22 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 24: June 3, 2022
+
+**Today's Progress:** Worked on Recover program from Pset04 of [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 25: June 4, 2022
+
+**Today's Progress:** Finished Recover program in [CS50](https://cs50.harvard.edu/x/) course.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
