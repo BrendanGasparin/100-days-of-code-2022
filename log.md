@@ -211,6 +211,14 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 26: June 5, 2022
+
+**Today's Progress:** Finished Inheritance program in [CS50](https://cs50.harvard.edu/x/) course Lab 5.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
