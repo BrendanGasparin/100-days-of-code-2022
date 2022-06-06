@@ -219,6 +219,14 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 27: June 6, 2022
+
+**Today's Progress:** Finished Speller program in [CS50](https://cs50.harvard.edu/x/) course Pset5.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
