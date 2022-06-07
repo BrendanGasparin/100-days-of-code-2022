@@ -430,7 +430,7 @@ Just noticed that my links to work for the last several days are just my freeCod
 
 **Link(s) to work:** [JavaScript30 CSS Variables](https://brendangasparin.github.io/javascript30-css-variables/)
 
-### Day 21: October 1, 2021
+### Day 22: October 1, 2021
 
 **Today's Progress:** Completed Array Cardio Day 1 exercise as day 4 of #JavaScript30.
 
