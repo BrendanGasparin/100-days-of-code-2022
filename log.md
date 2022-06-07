@@ -227,6 +227,22 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 28: June 7, 2022
+
+**Today's Progress:** I have moved on from C programming to Python programming. Finished Lab6 problem. Also finished Hello and both Mario programs from [CS50](https://cs50.harvard.edu/x/) course Pset6.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 29: June 8, 2022
+
+**Today's Progress:** Finished Cash and Credit programs from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
