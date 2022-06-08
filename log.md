@@ -237,7 +237,7 @@
 
 ### Day 29: June 8, 2022
 
-**Today's Progress:** Finished Cash and Credit programs from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+**Today's Progress:** Finished Cash program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
 
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
