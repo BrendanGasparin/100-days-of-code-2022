@@ -243,6 +243,14 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 30: June 9, 2022
+
+**Today's Progress:** Finished Credit program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
