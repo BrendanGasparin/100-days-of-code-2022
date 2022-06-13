@@ -253,7 +253,7 @@
 
 ### Day 31: June 10, 2022
 
-**Today's Progress:** Finished Readability program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+**Today's Progress:** Finished Readability program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python. Worked on the Python section of @TheCyberMentor's Practical Ethical Hacking course.
 
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
@@ -261,7 +261,7 @@
 
 ### Day 32: June 11, 2022
 
-**Today's Progress:** Finished DNA program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+**Today's Progress:** Finished DNA program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python. Finished the Python section of @TheCyberMentor's Practical Ethical Hacking course.
 
 **Link(s) to work**
 1. N/A (Can't post work because of academic integrity policy.)
