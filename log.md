@@ -251,6 +251,38 @@
 1. N/A (Can't post work because of academic integrity policy.)
 
 
+### Day 31: June 10, 2022
+
+**Today's Progress:** Finished Readability program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 32: June 11, 2022
+
+**Today's Progress:** Finished DNA program from [CS50](https://cs50.harvard.edu/x/) course Pset6, in Python.
+
+**Link(s) to work**
+1. N/A (Can't post work because of academic integrity policy.)
+
+
+### Day 33: June 12, 2022
+
+**Today's Progress:** Made a basic functioning chatbot in Discord that responds to its own name.
+
+**Link(s) to work**
+1. N/A (So far it's a private repo.)
+
+
+### Day 34: June 13, 2022
+
+**Today's Progress:** Gave additional quotes and a random system of choosing which ones to say to my Discord chatbot.
+
+**Link(s) to work**
+1. N/A (So far it's a private repo.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
