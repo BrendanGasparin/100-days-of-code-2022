@@ -283,6 +283,14 @@
 1. N/A (So far it's a private repo.)
 
 
+### Day 35: June 15, 2022
+
+**Today's Progress:** Finished DNA program from [CS50](https://cs50.harvard.edu/x/) course Lab 7, Songs, in SQL.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
