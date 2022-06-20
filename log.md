@@ -291,6 +291,48 @@
 1. N/A (Academic honesty policy.)
 
 
+### Day 36: June 16, 2022
+
+**Today's Progress:** Finished Movies problem from [CS50](https://cs50.harvard.edu/x/) course problem set 7, in SQL.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 37: June 17, 2022
+
+**Today's Progress:** Crammed PHP videos by Dani Krossing on YouTube. Made an A4 paper cheat sheet.
+
+**Link(s) to work**
+1. N/A
+
+
+### Day 38: June 18, 2022
+
+**Today's Progress:** Finished Fiftyville problem from [CS50](https://cs50.harvard.edu/x/) course problem set 7, in SQL.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 39: June 19, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
+
+**Thoughts:** My notes on HTML are really very thorough, and written in a simple and easy to understand way. I am trying to make them simple enough that my partner can learn HTML just by using my notes. This might make them valuable in the future as some sort of lesson plan or the basis for a tutorial.
+
+**Link(s) to work**
+1. N/A (private Google Docs file)
+
+
+### Day 40: June 20, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
