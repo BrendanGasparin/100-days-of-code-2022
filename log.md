@@ -349,7 +349,7 @@
 1. N/A (Academic honesty policy.)
 
 
-### Day 44: June 24, 2022
+### Day 43: June 24, 2022
 
 **Today's Progress:** Made a better survey form than last year, for [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course.
 
@@ -357,7 +357,7 @@
 1. N/A (Academic honesty policy.)
 
 
-### Day 45: June 26, 2022
+### Day 44: June 26, 2022
 
 **Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
 
@@ -365,7 +365,7 @@
 1. N/A (Academic honesty policy.)
 
 
-### Day 46: June 27, 2022
+### Day 45: June 27, 2022
 
 **Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive. Started to do a better tribute page than my attempt last year, hopefully, dedicated to my dog Buddy.
 
@@ -373,7 +373,7 @@
 1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
 
 
-### Day 47: June 28, 2022
+### Day 46: June 28, 2022
 
 **Today's Progress:** Worked on Buddy tribute page.
 
