@@ -333,6 +333,57 @@
 1. N/A (Academic honesty policy.)
 
 
+### Day 41: June 22, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 42: June 23, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 44: June 24, 2022
+
+**Today's Progress:** Made a better survey form than last year, for [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 45: June 26, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive.
+
+**Link(s) to work**
+1. N/A (Academic honesty policy.)
+
+
+### Day 46: June 27, 2022
+
+**Today's Progress:** Worked through [freeCodeCamp](https://freecodecamp.org/)'s new Responsive Web Design course, taking thorough notes on Google Drive. Started to do a better tribute page than my attempt last year, hopefully, dedicated to my dog Buddy.
+
+**Link(s) to work**
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
+### Day 47: June 28, 2022
+
+**Today's Progress:** Worked on Buddy tribute page.
+
+**Thoughts:** After playing with the personal website and earth-from-space repositories I realised I am rusty and may need to brush up on core web development skills again. But I don't feel like taking the entire Responsive Web Design certification on freeCodeCamp again so I am instead going to work on the new Foundations lessons on The Odin Project before using both The Odin Project and freeCodeCamp to practice my JavaScript some more. I would also like to learn more PHP and get better with SQL.
+
+**Link(s) to work** I have been coding every day (except for two days last week - hope that isn't breaking the rules). But I have been forgetting to update my log and tweet. I don't believe I have done either since the 20th, over a week ago. Tonight I updated my log from notes I have been keeping on my desk.
+
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
