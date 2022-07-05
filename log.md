@@ -421,7 +421,7 @@
 **Today's Progress:** Worked on personal homepage.
 
 **Link(s) to work**
-1. [brendangasparin.github.io](https://brendangasparin.github.io}
+1. [brendangasparin.github.io](https://brendangasparin.github.io)
 
 
 ### Day 52: July 5, 2022
