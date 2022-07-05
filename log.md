@@ -384,6 +384,54 @@
 1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
 
 
+### Day 47: June 29, 2022
+
+**Today's Progress:** Worked on Buddy tribute page.
+
+**Link(s) to work**
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
+### Day 48: July 1, 2022
+
+**Today's Progress:** Worked on a web-based interface for a login system.
+
+**Link(s) to work**
+1. N/A (Not online yet.)
+
+
+### Day 49: July 2, 2022
+
+**Today's Progress:** Worked on a web-based interface for a login system.
+
+**Link(s) to work**
+1. N/A (Not online yet.)
+
+
+### Day 50: July 3, 2022
+
+**Today's Progress:** Worked on a web-based interface for a login system.
+
+**Link(s) to work**
+1. N/A (Not online yet.)
+
+
+### Day 51: July 4, 2022
+
+**Today's Progress:** Worked on personal homepage.
+
+**Link(s) to work**
+1. [brendangasparin.github.io](https://brendangasparin.github.io}
+
+
+### Day 52: July 5, 2022
+
+**Today's Progress:** Worked on Buddy tribute page.
+
+**Link(s) to work**
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
