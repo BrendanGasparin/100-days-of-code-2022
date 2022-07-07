@@ -444,7 +444,7 @@
 
 **Today's Progress:** Worked on Buddy tribute page.
 
-**Thoughts:** I may have finished this project now. I just have to add the element attribute ids required by freeCodeCamp for the Tribute Page project.
+**Thoughts:** I may have finished this project now. I just have to add the element attribute ids required by freeCodeCamp for the Tribute Page project and make the link section look nice on small mobiles.
 
 **Link(s) to work**
 1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
