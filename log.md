@@ -432,6 +432,24 @@
 1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
 
 
+### Day 53: July 6, 2022
+
+**Today's Progress:** Worked on Buddy tribute page.
+
+**Link(s) to work**
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
+### Day 54: July 7, 2022
+
+**Today's Progress:** Worked on Buddy tribute page.
+
+**Thoughts:** I may have finished this project now. I just have to add the element attribut ids required by freeCodeCamp for the Tribute Page project.
+
+**Link(s) to work**
+1. [Buddy's Homepage](https://brendangasparin.github.io/buddy/)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
