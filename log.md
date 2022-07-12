@@ -460,7 +460,7 @@
 
 ### Day 56: July 9, 2022
 
-**Today's Progress:** Worked on freeCodeCamp.
+**Today's Progress:** Worked on freeCodeCamp's new Responsive Web Design material.
 
 **Link(s) to work**
 1. N/A
@@ -468,7 +468,7 @@
 
 ### Day 57: July 11, 2022
 
-**Today's Progress:** Worked on freeCodeCamp.
+**Today's Progress:** Worked on freeCodeCamp's new Responsive Web Design material.
 
 **Link(s) to work**
 1. N/A
@@ -476,7 +476,7 @@
 
 ### Day 58: July 12, 2022
 
-**Today's Progress:** Worked on freeCodeCamp.
+**Today's Progress:** Worked on freeCodeCamp's new Responsive Web Design material.
 
 **Link(s) to work**
 1. N/A
