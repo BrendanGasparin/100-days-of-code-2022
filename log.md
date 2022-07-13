@@ -476,10 +476,18 @@
 
 ### Day 58: July 12, 2022
 
-**Today's Progress:** Worked on freeCodeCamp's new Responsive Web Design material.
+**Today's Progress:** Worked on freeCodeCamp's new Responsive Web Design material and Technical Documentation project.
 
 **Link(s) to work**
-1. N/A
+1. [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/)
+
+
+### Day 59: July 13, 2022
+
+**Today's Progress:** Worked on freeCodeCamp's Technical Documentation project.
+
+**Link(s) to work**
+1. [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/)
 
 
 <hr />
