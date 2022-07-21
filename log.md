@@ -490,6 +490,30 @@
 1. [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/)
 
 
+### Day 60-65: July 14-18, 2022
+
+**Today's Progress:** Worked on freeCodeCamp's Technical Documentation project, and tutorials. Forgot to fill out log for over a week.
+
+**Link(s) to work**
+1. [HTML Tutorial](https://brendangasparin.github.io/html-tutorial/)
+
+
+### Day 66: July 20, 2022
+
+**Today's Progress:** Worked on freeCodeCamp's Product Landing Page project.
+
+**Link(s) to work**
+1. [Product Landing Page](https://brendangasparin.github.io/product-landing-page/)
+
+
+### Day 67: July 21, 2022
+
+**Today's Progress:** Worked on PHP CRUD app.
+
+**Link(s) to work**
+1. N/A (not live)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
