@@ -514,6 +514,46 @@
 1. N/A (not live)
 
 
+### Day 68: July 22, 2022
+
+**Today's Progress:** Worked on Unity tutorials from YouTube. Attempted to install Unity but got stuck halfway and went to sleep while reinstalling.
+
+**Link(s) to work**
+1. N/A
+
+
+### Day 69: July 23, 2022
+
+**Today's Progress:** Worked on Unity Learn tutorials.
+
+**Link(s) to work**
+1. [2D Platformer Microgame](https://play.unity.com/mg/2d/webgl-builds-224887)
+
+
+### Day 70: July 24, 2022
+
+**Today's Progress:** Worked on Unity Learn tutorials.
+
+**Link(s) to work**
+1. [2D Platformer Microgame](https://play.unity.com/mg/2d/webgl-builds-224887)
+
+
+### Day 71: July 25, 2022
+
+**Today's Progress:** Worked on Unity Learn tutorials.
+
+**Link(s) to work**
+1. [2D Platformer Microgame](https://play.unity.com/mg/2d/webgl-builds-224887)
+
+
+### Day 72: July 26, 2022
+
+**Today's Progress:** Started a new gardening website to use as a blog.
+
+**Link(s) to work**
+1. [Bee's Garden](https://brendangasparin.github.io/bees-garden/)
+
+
 <hr />
 
 # 100 Days Of Code (2021) - Log
